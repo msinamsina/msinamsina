@@ -1,7 +1,7 @@
 # 💫 About Me:
 - I'm Mohammad Sina Allahkaram, a Mechatronics Engineer with a Master's degree and a full-stack developer.
 - I'm passionate about creating practical web applications that leverage AI technologies, and I specialize in Computer Vision.
-- I work as a freelancer in [ARAS Lab.](https://aras.kntu.ac.ir/) and enjoy collaborating with other experts in the field.
+- I work as a freelancer and enjoy collaborating with other experts in the field.
 - I'm always looking for new challenges and opportunities to learn and grow.
 - I'm excited to contribute to the field of AI-based web development.
 
