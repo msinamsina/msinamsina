@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=msinamsina&label=Profile%20views&color=0e75b6&style=flat" alt="msinamsina" /> </p>
+
 # 💫 About Me:
 - I'm Mohammad Sina Allahkaram, a Mechatronics Engineer with a Master's degree and a full-stack developer.
 - I'm passionate about creating practical web applications that leverage AI technologies, and I specialize in Computer Vision.
