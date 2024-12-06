@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=msinamsina&column=10&theme=onedark" alt="msinamsina's Trophies" width="1500" height="200">
+      <img src="https://github-profile-trophy.vercel.app/?username=msinamsina&column=9&theme=onedark" alt="msinamsina's Trophies">
     </td>
   </tr>
 </table>
