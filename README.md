@@ -19,20 +19,20 @@
 
 <table align="center">
   <tr>
-    <td colspan="2" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msinamsina&theme=nord_dark" alt="msinamsina's Profile Details" width="700" height="150"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=msinamsina&theme=nord_dark" alt="msinamsina's Repos per Language" width="300" height="150"></td>
-    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=msinamsina&theme=nord_dark" alt="msinamsina's Most Commit Language" width="300" height="150"></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=msinamsina&theme=nord_dark" alt="msinamsina's Stats" width="300" height="150"></td>
-    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=msinamsina&theme=nord_dark" alt="msinamsina's Productive Time" width="300" height="150"></td>
+    <td colspan="2" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msinamsina&theme=onedark" alt="msinamsina's Profile Details" width="700" height="150"></td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=msinamsina&theme=radical" alt="msinamsina's GitHub Streak" width="600" height="150"><br>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=msinamsina&theme=onedark" alt="msinamsina's GitHub Streak" width="600" height="150"><br>
     </td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=msinamsina&theme=onedark" alt="msinamsina's Repos per Language" width="300" height="150"></td>
+    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=msinamsina&theme=onedark" alt="msinamsina's Most Commit Language" width="300" height="150"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=msinamsina&theme=onedark" alt="msinamsina's Stats" width="300" height="150"></td>
+    <td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=msinamsina&theme=onedark" alt="msinamsina's Productive Time" width="300" height="150"></td>
   </tr>
   <tr>
     <td colspan="2" align="center">
