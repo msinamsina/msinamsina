@@ -2,7 +2,7 @@
 
 # 💫 About Me: 
 <a href="https://github.com/msinamsina/CV/raw/main/MohammadSinaAlahkaram.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-View-blue?style=flat&logo=github" alt="Resume" />
+  <img src="https://img.shields.io/badge/Resume-View-blue?style=flat" alt="Resume" />
 </a>
 
 - I'm Mohammad Sina Allahkaram, a Mechatronics Engineer with a Master's degree and a full-stack developer.
