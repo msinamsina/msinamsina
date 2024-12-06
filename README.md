@@ -7,6 +7,10 @@
 - I'm always looking for new challenges and opportunities to learn and grow.
 - I'm excited to contribute to the field of AI-based web development.
 
+<a href="https://github.com/msinamsina/CV/raw/main/MohammadSinaAlahkaram.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-View%20CV-blue?style=for-the-badge&logo=google-drive" alt="Resume" />
+</a>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-sina-allahkaram-5b5a8a1a9) 
