@@ -34,10 +34,12 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=msinamsina&theme=radical" alt="msinamsina's GitHub Streak" width="600" height="150"><br>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=msinamsina&column=10&theme=onedark" alt="msinamsina's Trophies" width="1500" height="200">
+    </td>
+  </tr>
 </table>
-
-<img src="https://github-profile-trophy.vercel.app/?username=msinamsina&column=10&theme=onedark" alt="msinamsina's Trophies" width="1500" height="200">
-
 
 
 ### ✍️ Random Dev Quote
