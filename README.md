@@ -1,64 +1,124 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=msinamsina&label=Profile%20views&color=0e75b6&style=flat" alt="msinamsina" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=msinamsina&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-# 💫 About Me: 
+# 👋 Hi, I'm Mohammad Sina Allahkaram
+
+🎓 AI Software Engineer | 🤖 Computer Vision Specialist | 🌐 Full-Stack Developer
+
 <a href="https://github.com/msinamsina/CV/raw/main/MohammadSinaAlahkaram.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Resume-View-blue?style=flat" alt="Resume" />
 </a>
 
-- I'm Mohammad Sina Allahkaram, a Mechatronics Engineer with a Master's degree and a full-stack developer.
-- I'm passionate about creating practical web applications that leverage AI technologies, and I specialize in Computer Vision.
-- I work as a freelancer and enjoy collaborating with other experts in the field.
-- I'm always looking for new challenges and opportunities to learn and grow.
-- I'm excited to contribute to the field of AI-based web development.
+---
 
+## 💡 About Me
 
+I'm an AI Software Engineer with a Master’s degree in Mechatronics and a deep passion for building intelligent, scalable, and user-centric software solutions. I specialize in **Computer Vision**, **AI-powered applications**, and **full-stack web development**.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammad-sina-allahkaram-5b5a8a1a9) 
+With a strong foundation in engineering and software development, I bring a systems-thinking approach to designing robust AI architectures and deploying them to real-world environments.
 
-# 📊 GitHub Stats:
+* 🤖 Designing & implementing deep learning models for vision tasks
+* 🧠 Integrating AI seamlessly into production-ready web platforms
+* 🧩 Skilled in end-to-end ML pipelines — from data wrangling to deployment
+* 🌍 Freelance collaborator with diverse, global teams
+* 🚀 Lifelong learner, constantly exploring new AI frameworks and tools
+
+---
+
+## 🛠️ Tech Stack
+
+### 🧠 **Artificial Intelligence & Machine Learning**
+
+`Python`  |  `PyTorch`  |  `TensorFlow`  |  `Keras`  |  `scikit-learn`
+`OpenCV`  |  `YOLO` (ulralitics)  |  `Transformers (Hugging Face)`  |  `XGBoost`
+`FastAI`  |  `ONNX` 
+
+### 👁️‍🗨️ **Computer Vision & Image Processing**
+
+`OpenCV`  |  `MMDetection`  |  `Detectron2`  |  `Albumentations`  |  `MediaPipe`
+`Pillow`  |  `Scikit-image`  |  `Matplotlib` (visualizations)
+
+### 🌐 **Web Development & APIs**
+
+`FastAPI`  |  `Flask`  |  `Django`   |  `Qt`
+`React.js` |  `HTML5`  |  `CSS3`     |  `Tailwind CSS`
+
+### 🧪 **Data Science & Visualization**
+
+`NumPy`  |  `Pandas`  |  `Matplotlib`  |  `Seaborn`  |  `Plotly`
+`Jupyter Notebooks`  |  `Google Colab`
+
+### ☁️ **MLOps & Deployment**
+
+`GitHub Actions` | `Gitlab-ci` | `Jenkins` | `MLFlow` | `DVC` |
+`Docker`  |  `Docker Swarm`  |  `Kubernetes` (basic)  | `GCP`  |  `Proxmox`  |
+
+### 🗃️ **Databases & Storage**
+
+`MongoDB`  |  `PostgreSQL`  |  `MySQL`  |  `SQLite` 
+
+### 🛠️ **Tools & Utilities**
+
+`Git`  |  `VS Code`  |  `Linux`  |  `Figma`  |  `Postman`
+`Weights & Biases`  |  `MLflow`  |  `TensorBoard`
+
+---
+
+## 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/mohammad-sina-allahkaram-5b5a8a1a9)
+
+---
+
+## 📊 GitHub Stats
 
 <table align="center">
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msinamsina&theme=onedark" alt="msinamsina's Profile Details" width="700" height="150">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msinamsina&theme=onedark" width="700" height="150" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=msinamsina&theme=onedark" alt="msinamsina's GitHub Streak" width="600" height="150"><br>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=msinamsina&theme=onedark" width="600" height="150" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=msinamsina&theme=onedark" alt="msinamsina's Repos per Language" width="300" height="150">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=msinamsina&theme=onedark" width="300" height="150" />
     </td>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=msinamsina&theme=onedark" alt="msinamsina's Most Commit Language" width="300" height="150">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=msinamsina&theme=onedark" width="300" height="150" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=msinamsina&theme=onedark" alt="msinamsina's Stats" width="300" height="150">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=msinamsina&theme=onedark" width="300" height="150" />
     </td>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=msinamsina&theme=onedark" alt="msinamsina's Productive Time" width="300" height="150">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=msinamsina&theme=onedark" width="300" height="150" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=msinamsina&column=9&theme=onedark" alt="msinamsina's Trophies">
+      <img src="https://github-profile-trophy.vercel.app/?username=msinamsina&column=9&theme=onedark" />
     </td>
   </tr>
 </table>
 
+---
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote of the Day
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=onedark" alt="DEV Quote">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=onedark" alt="Dev Quote" />
 </div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+---
+
+> *“Artificial Intelligence is not the future — it's the present we’re building.”*
+
 <!---
 msinamsina/msinamsina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
