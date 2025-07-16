@@ -51,8 +51,8 @@ With a strong foundation in engineering and software development, I bring a syst
 
 ### ☁️ **MLOps & Deployment**
 
-`GitHub Actions` | `Gitlab-ci` | `Jenkins` | `MLFlow` | `DVC` |
-`Docker`  |  `Docker Swarm`  |  `Kubernetes` (basic)  | `GCP`  |  `Proxmox`  |
+`GitHub Actions` | `Gitlab-ci` | `Jenkins` | `MLFlow` | `DVC`
+`Docker`  |  `Docker Swarm`  |  `Kubernetes` (basic)  | `GCP`  |  `Proxmox` 
 
 ### 🗃️ **Databases & Storage**
 
