@@ -31,7 +31,7 @@ With a strong foundation in engineering and software development, I bring a syst
 ### 🧠 **Artificial Intelligence & Machine Learning**
 
 `Python`  |  `PyTorch`  |  `TensorFlow`  |  `Keras`  |  `scikit-learn`
-`OpenCV`  |  `YOLO` (ulralitics)  |  `Transformers (Hugging Face)`  |  `XGBoost`
+`OpenCV`  |  `YOLO` (ultralytics)  |  `Transformers (Hugging Face)`  |  `XGBoost`
 `FastAI`  |  `ONNX` 
 
 ### 👁️‍🗨️ **Computer Vision & Image Processing**
