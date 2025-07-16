@@ -1,16 +1,20 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=msinamsina&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  
+  <a href="https://github.com/msinamsina/CV/raw/main/MohammadSinaAlahkaram.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-View-blue?style=flat" alt="Resume" />
+  </a>
+
+  <a href="https://linkedin.com/in/mohammad-sina-allahkaram-5b5a8a1a9" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white" alt="LinkedIn" />
+  </a>
+
 </p>
 
 # 👋 Hi, I'm Mohammad Sina Allahkaram
 
 🎓 AI Software Engineer | 🤖 Computer Vision Specialist | 🌐 Full-Stack Developer
 
-<a href="https://github.com/msinamsina/CV/raw/main/MohammadSinaAlahkaram.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-View-blue?style=flat" alt="Resume" />
-</a>
-
----
 
 ## 💡 About Me
 
@@ -65,12 +69,6 @@ With a strong foundation in engineering and software development, I bring a syst
 
 ---
 
-## 🌐 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/mohammad-sina-allahkaram-5b5a8a1a9)
-
----
-
 ## 📊 GitHub Stats
 
 <table align="center">
@@ -78,8 +76,6 @@ With a strong foundation in engineering and software development, I bring a syst
     <td colspan="2" align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msinamsina&theme=onedark" width="700" height="150" />
     </td>
-  </tr>
-  <tr>
     <td colspan="2" align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=msinamsina&theme=onedark" width="600" height="150" />
     </td>
@@ -91,8 +87,6 @@ With a strong foundation in engineering and software development, I bring a syst
     <td align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=msinamsina&theme=onedark" width="300" height="150" />
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=msinamsina&theme=onedark" width="300" height="150" />
     </td>
@@ -101,7 +95,7 @@ With a strong foundation in engineering and software development, I bring a syst
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td colspan="4" align="center">
       <img src="https://github-profile-trophy.vercel.app/?username=msinamsina&column=9&theme=onedark" />
     </td>
   </tr>
